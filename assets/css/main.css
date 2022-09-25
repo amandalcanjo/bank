@@ -9,7 +9,7 @@
 :root {
   --color-default: #222222;
   --color-primary: #aa5037;
-  --color-secondary: #F47450;
+  --color-secondary: #8BB8B3;
 }
 
 /* Smooth scroll behavior */
@@ -1997,7 +1997,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background: #7e5044;
+  background: #ad604a;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
@@ -2029,7 +2029,7 @@ section {
 }
 
 .hero .icon-box:hover {
-  background: #9b7063;
+  background: #aa7466;
 }
 
 
