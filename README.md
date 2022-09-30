@@ -7,13 +7,12 @@
 * CSS
 * SCSS
 * Bootstrap
-* PHP
 * JavaScript
 * Web Components
 
 ## Layout 💗
 
-![gif (2)](https://user-images.githubusercontent.com/81193788/192165635-da9ba690-bb55-4cfd-8299-1cbaca7cb5de.gif)
+![gif](https://user-images.githubusercontent.com/81193788/193338816-aa651a45-9b43-4642-a311-bc888f95188b.gif)
 
 ## Autor: 
 [Amanda Alcanjo](https://portfolio-amandalcanjo.netlify.app/)
